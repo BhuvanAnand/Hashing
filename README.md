@@ -1,5 +1,4 @@
 <h1>Hashing in C</h1>
-<hr/>
 <h2>Implemented hashing in C.</h2>
 
 <ul>
